@@ -1,4 +1,21 @@
 # setzsh
+
+## 也可以直接脚本
+### 国外
+```bash
+wget --no-check-certificate -O install.sh https://raw.github.com/mfblog/setzsh/main/setup_zsh.sh
+```
+
+### 国内
+```bash
+wget --no-check-certificate -O install.sh https://gh.ccya.top/https://raw.github.com/mfblog/setzsh/main/setup_zsh.sh
+```
+```bash
+chmod 777 install.sh
+```
+```bash
+./install.sh
+```
 安装步骤
 apt update && apt upgrade -y
 
