@@ -1,6 +1,13 @@
 # setzsh
 
 ## 也可以直接脚本
+
+## 自动补全功能
+
+```bash
+wget --no-check-certificate -O install.sh https://raw.github.com/mfblog/setzsh/main/auto_zsh.sh
+```
+
 ### 国外
 ```bash
 wget --no-check-certificate -O install.sh https://raw.github.com/mfblog/setzsh/main/setup_zsh.sh
